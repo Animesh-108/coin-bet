@@ -1,0 +1,112 @@
+{
+ "label": "OFFICIAL",
+ "seed": 109,
+ "players": 1000000,
+ "flips": 1000,
+ "definitions": {
+  "ahead": "> $100",
+  "ruined": "<= $1",
+  "median": "lower median",
+  "start": 100.0
+ },
+ "L1": {
+  "10": {
+   "median": 59.04900000000004,
+   "log_median": 4.078367607698961,
+   "ahead": 0.376486,
+   "ruined": 0.001032,
+   "log_mean": 5.094624505081441,
+   "richest_share": 3.534640754953008e-05,
+   "richest_count": 983,
+   "players_ahead": 376486,
+   "players_ruined": 1032,
+   "crowd_average": 163.1425739141819
+  },
+  "100": {
+   "median": 0.5153775207320093,
+   "log_median": -0.6628555969032277,
+   "ahead": 0.135853,
+   "ruined": 0.539797,
+   "log_mean": 9.548393150430563,
+   "richest_share": 0.3264459105555525,
+   "richest_count": 1,
+   "players_ahead": 135853,
+   "players_ruined": 539797,
+   "crowd_average": 14022.145081668255
+  },
+  "365": {
+   "median": 7.050630851690639e-07,
+   "log_median": -14.164978555628153,
+   "ahead": 0.013696,
+   "ruined": 0.953155,
+   "log_mean": 15.113766484378715,
+   "richest_share": 0.3887254643238401,
+   "richest_count": 2,
+   "players_ahead": 13696,
+   "players_ruined": 953155,
+   "crowd_average": 3662902.7216006033
+  },
+  "1000": {
+   "median": 1.322070819480793e-21,
+   "log_median": -48.07508764292507,
+   "ahead": 0.000138,
+   "ruined": 0.999566,
+   "log_mean": 12.339297688705582,
+   "richest_share": 0.9897067342298435,
+   "richest_count": 1,
+   "players_ahead": 138,
+   "players_ruined": 999566,
+   "crowd_average": 228501.41656481972
+  },
+  "crowd_average_peak_flip": 555,
+  "crowd_average_peak": 149502348.42197436,
+  "crowd_average_vs_expected_at_peak": 2.5976882557767826e-06
+ },
+ "L2": {
+  "1": {
+   "median": 1.322070819480793e-21,
+   "ahead": 0.000138,
+   "ruined": 0.999566,
+   "players_ahead": 138
+  },
+  "0.5": {
+   "median": 99.99999999999952,
+   "ahead": 0.487985,
+   "ruined": 0.253029,
+   "players_ahead": 487985
+  },
+  "0.25": {
+   "median": 49832.87497451597,
+   "ahead": 0.958952,
+   "ruined": 0.001071,
+   "players_ahead": 958952
+  },
+  "0.1": {
+   "median": 5373.608902041408,
+   "ahead": 0.997609,
+   "ruined": 0.0,
+   "players_ahead": 997609
+  },
+  "best_f_by_median": 0.25
+ },
+ "L3": {
+  "2": {
+   "median": 15.019210779308963,
+   "ahead": 0.426814,
+   "ruined": 0.396632,
+   "groups": 500000
+  },
+  "10": {
+   "median": 1.2666962984660218e+19,
+   "ahead": 1.0,
+   "ruined": 0.0,
+   "groups": 100000
+  },
+  "100": {
+   "median": 6.311634513428803e+22,
+   "ahead": 1.0,
+   "ruined": 0.0,
+   "groups": 10000
+  }
+ }
+}

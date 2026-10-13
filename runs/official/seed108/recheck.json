@@ -1,0 +1,17 @@
+{
+ "seed": 108,
+ "label": "recheck of the official run (re-streamed coins, not a new run)",
+ "all_match": true,
+ "richest_player_index": 969378,
+ "richest_heads": 574,
+ "richest_dollars": 370523161.81342196,
+ "total_money": 616116847.5252236,
+ "crowd_average": 616.1168475252236,
+ "share_top1": 0.6013845641483662,
+ "share_top10": 0.9923518859159843,
+ "share_players_ahead": 0.9999912777918966,
+ "players_ahead": 140,
+ "average_without_richest": 245.59393130573295,
+ "average_without_players_ahead": 0.005374651811366471,
+ "money_of_all_ruined": 137.1482900343264
+}

@@ -1,0 +1,7 @@
+OFFICIAL run seed 108, N 1000000, T 1000, started 2026-10-11 00:32:46
+L1/L2 lone players done in 3.4s
+L1 peak of crowd average at flip 693; L2 best f by median 0.25
+L3 pool K=2 done in 21.6s: median $14.39, ahead 0.4249
+L3 pool K=10 done in 5.9s: median $1.245e+19, ahead 1.0000
+L3 pool K=100 done in 2.7s: median $5.949e+22, ahead 1.0000
+saved to D:\algorithm\New folder\coin_bet\runs\official\seed108, finished 2026-10-11 00:33:22
